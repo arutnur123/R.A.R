@@ -1,0 +1,8 @@
+{
+  "name": "Remix R.A.R",
+  "description": "R.A.R - Akıllı Çok Dilli Sesli ve Yapay Zeka Destekli Asistan",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
